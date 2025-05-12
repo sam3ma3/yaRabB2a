@@ -1,0 +1,207 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\amres\\source\\repos\\Shopping\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{250333E8-FE77-4478-BCA3-5DB6824718E3}|Shopping.ProductService\\Shopping.ProductService.csproj|c:\\users\\amres\\source\\repos\\shopping\\shopping.productservice\\kafka\\kafkaconsumer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{250333E8-FE77-4478-BCA3-5DB6824718E3}|Shopping.ProductService\\Shopping.ProductService.csproj|solutionrelative:shopping.productservice\\kafka\\kafkaconsumer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7B6684F7-60B4-48D4-A32E-1BEE674A60AF}|Shopping.OrderService\\Shopping.OrderService.csproj|c:\\users\\amres\\source\\repos\\shopping\\shopping.orderservice\\controllers\\orderscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7B6684F7-60B4-48D4-A32E-1BEE674A60AF}|Shopping.OrderService\\Shopping.OrderService.csproj|solutionrelative:shopping.orderservice\\controllers\\orderscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7B6684F7-60B4-48D4-A32E-1BEE674A60AF}|Shopping.OrderService\\Shopping.OrderService.csproj|c:\\users\\amres\\source\\repos\\shopping\\shopping.orderservice\\kafka\\kafkaproducer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7B6684F7-60B4-48D4-A32E-1BEE674A60AF}|Shopping.OrderService\\Shopping.OrderService.csproj|solutionrelative:shopping.orderservice\\kafka\\kafkaproducer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6A8B420C-D0BF-4389-8694-244A1F215590}|Shopping.Model\\Shopping.Model.csproj|c:\\users\\amres\\source\\repos\\shopping\\shopping.model\\ordermessage.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6A8B420C-D0BF-4389-8694-244A1F215590}|Shopping.Model\\Shopping.Model.csproj|solutionrelative:shopping.model\\ordermessage.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7B6684F7-60B4-48D4-A32E-1BEE674A60AF}|Shopping.OrderService\\Shopping.OrderService.csproj|c:\\users\\amres\\source\\repos\\shopping\\shopping.orderservice\\shopping.orderservice.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{7B6684F7-60B4-48D4-A32E-1BEE674A60AF}|Shopping.OrderService\\Shopping.OrderService.csproj|solutionrelative:shopping.orderservice\\shopping.orderservice.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A71C0B03-6521-44F0-826E-9E70879F7BC1}|Shopping.AppHost\\Shopping.AppHost.csproj|c:\\users\\amres\\source\\repos\\shopping\\shopping.apphost\\kafka.yml||{8B382828-6202-11D1-8870-0000F87579D2}",
+      "RelativeMoniker": "D:0:0:{A71C0B03-6521-44F0-826E-9E70879F7BC1}|Shopping.AppHost\\Shopping.AppHost.csproj|solutionrelative:shopping.apphost\\kafka.yml||{8B382828-6202-11D1-8870-0000F87579D2}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{250333E8-FE77-4478-BCA3-5DB6824718E3}|Shopping.ProductService\\Shopping.ProductService.csproj|c:\\users\\amres\\source\\repos\\shopping\\shopping.productservice\\shopping.productservice.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{250333E8-FE77-4478-BCA3-5DB6824718E3}|Shopping.ProductService\\Shopping.ProductService.csproj|solutionrelative:shopping.productservice\\shopping.productservice.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{250333E8-FE77-4478-BCA3-5DB6824718E3}|Shopping.ProductService\\Shopping.ProductService.csproj|c:\\users\\amres\\source\\repos\\shopping\\shopping.productservice\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{250333E8-FE77-4478-BCA3-5DB6824718E3}|Shopping.ProductService\\Shopping.ProductService.csproj|solutionrelative:shopping.productservice\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A71C0B03-6521-44F0-826E-9E70879F7BC1}|Shopping.AppHost\\Shopping.AppHost.csproj|c:\\users\\amres\\source\\repos\\shopping\\shopping.apphost\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A71C0B03-6521-44F0-826E-9E70879F7BC1}|Shopping.AppHost\\Shopping.AppHost.csproj|solutionrelative:shopping.apphost\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6A8B420C-D0BF-4389-8694-244A1F215590}|Shopping.Model\\Shopping.Model.csproj|c:\\users\\amres\\source\\repos\\shopping\\shopping.model\\order.model.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6A8B420C-D0BF-4389-8694-244A1F215590}|Shopping.Model\\Shopping.Model.csproj|solutionrelative:shopping.model\\order.model.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7B6684F7-60B4-48D4-A32E-1BEE674A60AF}|Shopping.OrderService\\Shopping.OrderService.csproj|c:\\users\\amres\\source\\repos\\shopping\\shopping.orderservice\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7B6684F7-60B4-48D4-A32E-1BEE674A60AF}|Shopping.OrderService\\Shopping.OrderService.csproj|solutionrelative:shopping.orderservice\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 3,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "OrdersController.cs",
+              "DocumentMoniker": "C:\\Users\\amres\\source\\repos\\Shopping\\Shopping.OrderService\\Controllers\\OrdersController.cs",
+              "RelativeDocumentMoniker": "Shopping.OrderService\\Controllers\\OrdersController.cs",
+              "ToolTip": "C:\\Users\\amres\\source\\repos\\Shopping\\Shopping.OrderService\\Controllers\\OrdersController.cs",
+              "RelativeToolTip": "Shopping.OrderService\\Controllers\\OrdersController.cs",
+              "ViewState": "AgIAABgAAAAAAAAAAAAIwCQAAAATAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-04T06:16:58.15Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "KafkaProducer.cs",
+              "DocumentMoniker": "C:\\Users\\amres\\source\\repos\\Shopping\\Shopping.OrderService\\Kafka\\KafkaProducer.cs",
+              "RelativeDocumentMoniker": "Shopping.OrderService\\Kafka\\KafkaProducer.cs",
+              "ToolTip": "C:\\Users\\amres\\source\\repos\\Shopping\\Shopping.OrderService\\Kafka\\KafkaProducer.cs",
+              "RelativeToolTip": "Shopping.OrderService\\Kafka\\KafkaProducer.cs",
+              "ViewState": "AgIAAAkAAAAAAAAAAADwvxEAAAA6AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-04T06:10:47.698Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "OrderMessage.cs",
+              "DocumentMoniker": "C:\\Users\\amres\\source\\repos\\Shopping\\Shopping.Model\\OrderMessage.cs",
+              "RelativeDocumentMoniker": "Shopping.Model\\OrderMessage.cs",
+              "ToolTip": "C:\\Users\\amres\\source\\repos\\Shopping\\Shopping.Model\\OrderMessage.cs",
+              "RelativeToolTip": "Shopping.Model\\OrderMessage.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAuwAsAAAAcAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-04T06:16:31.328Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "KafkaConsumer.cs",
+              "DocumentMoniker": "C:\\Users\\amres\\source\\repos\\Shopping\\Shopping.ProductService\\Kafka\\KafkaConsumer.cs",
+              "RelativeDocumentMoniker": "Shopping.ProductService\\Kafka\\KafkaConsumer.cs",
+              "ToolTip": "C:\\Users\\amres\\source\\repos\\Shopping\\Shopping.ProductService\\Kafka\\KafkaConsumer.cs",
+              "RelativeToolTip": "Shopping.ProductService\\Kafka\\KafkaConsumer.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-04T06:48:08.131Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Shopping.OrderService",
+              "DocumentMoniker": "C:\\Users\\amres\\source\\repos\\Shopping\\Shopping.OrderService\\Shopping.OrderService.csproj",
+              "RelativeDocumentMoniker": "Shopping.OrderService\\Shopping.OrderService.csproj",
+              "ToolTip": "C:\\Users\\amres\\source\\repos\\Shopping\\Shopping.OrderService\\Shopping.OrderService.csproj",
+              "RelativeToolTip": "Shopping.OrderService\\Shopping.OrderService.csproj",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA8AAAANAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2025-05-04T06:09:31.464Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "kafka.yml",
+              "DocumentMoniker": "C:\\Users\\amres\\source\\repos\\Shopping\\Shopping.AppHost\\kafka.yml",
+              "RelativeDocumentMoniker": "Shopping.AppHost\\kafka.yml",
+              "ToolTip": "C:\\Users\\amres\\source\\repos\\Shopping\\Shopping.AppHost\\kafka.yml",
+              "RelativeToolTip": "Shopping.AppHost\\kafka.yml",
+              "ViewState": "AgIAAAsAAAAAAAAAAAAIwBYAAAA8AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003775|",
+              "WhenOpened": "2025-05-04T05:55:58.048Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "Shopping.ProductService",
+              "DocumentMoniker": "C:\\Users\\amres\\source\\repos\\Shopping\\Shopping.ProductService\\Shopping.ProductService.csproj",
+              "RelativeDocumentMoniker": "Shopping.ProductService\\Shopping.ProductService.csproj",
+              "ToolTip": "C:\\Users\\amres\\source\\repos\\Shopping\\Shopping.ProductService\\Shopping.ProductService.csproj",
+              "RelativeToolTip": "Shopping.ProductService\\Shopping.ProductService.csproj",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2025-05-04T06:50:07.962Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\amres\\source\\repos\\Shopping\\Shopping.ProductService\\Program.cs",
+              "RelativeDocumentMoniker": "Shopping.ProductService\\Program.cs",
+              "ToolTip": "C:\\Users\\amres\\source\\repos\\Shopping\\Shopping.ProductService\\Program.cs",
+              "RelativeToolTip": "Shopping.ProductService\\Program.cs",
+              "ViewState": "AgIAAAQAAAAAAAAAAAAIwA0AAABvAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-04T06:52:00.996Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\amres\\source\\repos\\Shopping\\Shopping.AppHost\\Program.cs",
+              "RelativeDocumentMoniker": "Shopping.AppHost\\Program.cs",
+              "ToolTip": "C:\\Users\\amres\\source\\repos\\Shopping\\Shopping.AppHost\\Program.cs",
+              "RelativeToolTip": "Shopping.AppHost\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAMAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-04T06:21:45.673Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "Order.Model.cs",
+              "DocumentMoniker": "C:\\Users\\amres\\source\\repos\\Shopping\\Shopping.Model\\Order.Model.cs",
+              "RelativeDocumentMoniker": "Shopping.Model\\Order.Model.cs",
+              "ToolTip": "C:\\Users\\amres\\source\\repos\\Shopping\\Shopping.Model\\Order.Model.cs",
+              "RelativeToolTip": "Shopping.Model\\Order.Model.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAAcAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-04T06:18:22.256Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\amres\\source\\repos\\Shopping\\Shopping.OrderService\\Program.cs",
+              "RelativeDocumentMoniker": "Shopping.OrderService\\Program.cs",
+              "ToolTip": "C:\\Users\\amres\\source\\repos\\Shopping\\Shopping.OrderService\\Program.cs",
+              "RelativeToolTip": "Shopping.OrderService\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA4AAAA8AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-04T06:13:27.798Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

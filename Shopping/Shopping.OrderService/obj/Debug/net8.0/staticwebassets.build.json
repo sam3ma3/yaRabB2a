@@ -1,0 +1,12 @@
+{
+  "Version": 1,
+  "Hash": "V6PnZgbrELneNWwkppLQR2UE4UpZTculOl2KUWZ8RCQ=",
+  "Source": "Shopping.OrderService",
+  "BasePath": "_content/Shopping.OrderService",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [],
+  "Assets": [],
+  "Endpoints": []
+}

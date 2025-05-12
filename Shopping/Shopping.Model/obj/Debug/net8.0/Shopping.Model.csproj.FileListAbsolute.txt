@@ -1,0 +1,11 @@
+C:\Users\amres\source\repos\Shopping\Shopping.Model\bin\Debug\net8.0\Shopping.Model.deps.json
+C:\Users\amres\source\repos\Shopping\Shopping.Model\bin\Debug\net8.0\Shopping.Model.dll
+C:\Users\amres\source\repos\Shopping\Shopping.Model\bin\Debug\net8.0\Shopping.Model.pdb
+C:\Users\amres\source\repos\Shopping\Shopping.Model\obj\Debug\net8.0\Shopping.Model.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\amres\source\repos\Shopping\Shopping.Model\obj\Debug\net8.0\Shopping.Model.AssemblyInfoInputs.cache
+C:\Users\amres\source\repos\Shopping\Shopping.Model\obj\Debug\net8.0\Shopping.Model.AssemblyInfo.cs
+C:\Users\amres\source\repos\Shopping\Shopping.Model\obj\Debug\net8.0\Shopping.Model.csproj.CoreCompileInputs.cache
+C:\Users\amres\source\repos\Shopping\Shopping.Model\obj\Debug\net8.0\Shopping.Model.dll
+C:\Users\amres\source\repos\Shopping\Shopping.Model\obj\Debug\net8.0\refint\Shopping.Model.dll
+C:\Users\amres\source\repos\Shopping\Shopping.Model\obj\Debug\net8.0\Shopping.Model.pdb
+C:\Users\amres\source\repos\Shopping\Shopping.Model\obj\Debug\net8.0\ref\Shopping.Model.dll
