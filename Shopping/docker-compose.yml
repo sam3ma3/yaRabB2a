@@ -48,7 +48,7 @@ services:
       - user-db  # Wait for the user-db to start
 
   product-service:
-    build: ./product-service
+    build: ./Shopping.ProductService
     ports:
       - "4002:4000"
     depends_on:
@@ -56,7 +56,7 @@ services:
       - kafka  # Critical for Kafka communication
 
   order-service:
-    build: ./order-service
+    build: ./Shopping.OrderService
     ports:
       - "4003:4000"
     depends_on:
